@@ -99,7 +99,7 @@
 <div align="center">
   &nbsp;&nbsp;&nbsp;<strong>Redux</strong>
   &emsp;&emsp;&emsp;&emsp;&ensp; <strong>Next.js</strong>
-  &emsp;&emsp;&ensp;&ensp; <strong>&emsp;Knex.js</strong>
+  &emsp;&emsp;&ensp;&ensp;&ensp; <strong>&emsp;Knex.js</strong>
 </div>
 
 ## Contatos:
