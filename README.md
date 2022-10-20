@@ -48,7 +48,7 @@
 &emsp;&emsp;&emsp; <strong>&emsp;React</strong>
 &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;HTML5</strong>
 &emsp;&emsp;&emsp;&emsp; <strong>&emsp;CSS3</strong>
-&emsp;&emsp;&ensp;&ensp; <strong>&emsp;&nbsp;Node.js</strong>
+&emsp;&emsp;&ensp;&ensp;&nbsp; <strong>&emsp;&nbsp;Node.js</strong>
 &emsp;&emsp;&emsp; <strong>&emsp;Express.js</strong>
 
 <div>
@@ -62,13 +62,13 @@
   <img src="https://www.svgrepo.com/show/354107/nestjs.svg" width="100"/> &ensp;
 </div>
 
-&emsp;&emsp;&ensp; <strong>&emsp;EJS</strong>
-&emsp;&emsp;&ensp;&nbsp; <strong>&emsp;MongoDB</strong>
-&emsp;&emsp; <strong>&emsp;MySQL</strong>
-&emsp;&emsp; <strong>&emsp;MariaDB</strong>
-&emsp;&nbsp; <strong>&emsp;PostgreSQL</strong>
-&emsp;&nbsp; <strong>&emsp;&nbsp;Strapi.js</strong>
-&emsp;&emsp; <strong>&emsp;NestJS</strong>
+&emsp;&emsp;&ensp;&ensp; <strong>&emsp;EJS</strong>
+&emsp;&emsp;&ensp;&nbsp;&nbsp; <strong>&emsp;MongoDB</strong>
+&emsp;&emsp;&emsp; <strong>&emsp;MySQL</strong>
+&emsp;&emsp;&emsp; <strong>&emsp;MariaDB</strong>
+&emsp;&nbsp;&nbsp; <strong>&emsp;PostgreSQL</strong>
+&emsp;&nbsp;&nbsp; <strong>&emsp;&nbsp;Strapi.js</strong>
+&emsp;&emsp;&emsp; <strong>&emsp;NestJS</strong>
 
 <div>
   <br>
@@ -81,13 +81,13 @@
   <img src="https://www.svgrepo.com/show/353930/jest.svg" width="100px"/> &ensp;
 </div>
 
-&emsp;&emsp;&nbsp; <strong>&emsp;JWT</strong>
-&emsp;&emsp;&emsp;&nbsp; <strong>&emsp;Linux</strong>
-&emsp;&ensp; <strong>&emsp;Ubuntu Server</strong>
-&nbsp; <strong>&emsp;Webpack</strong>
-&emsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;Babel</strong>
-&emsp;&emsp;&ensp;&nbsp; <strong>&emsp;&nbsp;Sequelize</strong>
-&emsp;&emsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;Jest</strong>
+&emsp;&emsp;&nbsp;&nbsp; <strong>&emsp;JWT</strong>
+&emsp;&emsp;&emsp;&nbsp;&nbsp; <strong>&emsp;Linux</strong>
+&emsp;&ensp;&ensp; <strong>&emsp;Ubuntu Server</strong>
+&nbsp;&nbsp; <strong>&emsp;Webpack</strong>
+&emsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;Babel</strong>
+&emsp;&emsp;&ensp;&nbsp;&nbsp; <strong>&emsp;&nbsp;Sequelize</strong>
+&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;Jest</strong>
 
 <div align="center">
   <br>
