@@ -28,7 +28,7 @@
 &emsp;&nbsp;&nbsp; <strong>Linguagem C</strong>
 &emsp;&emsp;&nbsp;&nbsp; <strong>&emsp;VScode</strong>
 &emsp;&emsp;&emsp;&ensp; <strong>&emsp;Java</strong>
-&emsp;&emsp;&emsp;&nbsp; <strong>&emsp;Eclipse</strong>
+&emsp;&emsp;&emsp;&ensp;&nbsp; <strong>&emsp;Eclipse</strong>
 &emsp;&emsp;&emsp;&ensp; <strong>&emsp;Selenium</strong>
 
 <h3>Tecnologias em aprendizado...</h3> <br>
