@@ -44,7 +44,7 @@
 </div>
 
 &emsp; <strong>&emsp;JavaScript</strong>
-&emsp;&emsp; <strong>&emsp;TypeScript</strong>
+&emsp;&emsp;&nbsp; <strong>&emsp;TypeScript</strong>
 &emsp;&emsp;&emsp; <strong>&emsp;React</strong>
 &emsp;&emsp;&emsp;&emsp; <strong>&emsp;HTML5</strong>
 &emsp;&emsp;&emsp;&emsp; <strong>&emsp;CSS3</strong>
