@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="0 - Arquivos/gifs/link.gif" width="60px"/> Olá pessoas! Sejam bem-vindas ao meu repositório de estudos.</h1>
+  <h1><img src="0 - Arquivos/gifs/link.gif" width="60px"/> Olá pessoas! Sejam bem-vindas ao meu perfil no GitHub.</h1>
 </div>
 <br><br>
 <div align="center">
