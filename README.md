@@ -66,8 +66,8 @@
 &emsp;&emsp;&ensp;&ensp;&nbsp;&nbsp; <strong>&emsp;MongoDB</strong>
 &emsp;&emsp;&emsp; <strong>&emsp;MySQL</strong>
 &emsp;&emsp;&ensp; <strong>&emsp;MariaDB</strong>
-&emsp;&ensp;&ensp;&nbsp; <strong>&emsp;PostgreSQL</strong>
-&emsp;&ensp;&ensp; <strong>&emsp;&nbsp;Strapi.js</strong>
+&emsp;&emsp;&ensp;&nbsp; <strong>&emsp;PostgreSQL</strong>
+&emsp;&emsp; <strong>&emsp;&nbsp;Strapi.js</strong>
 &emsp;&emsp;&emsp; <strong>&emsp;NestJS</strong>
 
 <div>
