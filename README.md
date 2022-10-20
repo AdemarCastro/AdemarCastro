@@ -83,9 +83,9 @@
 
 &emsp;&emsp;&nbsp;&nbsp; <strong>&emsp;JWT</strong>
 &emsp;&emsp;&emsp;&ensp;&ensp;&ensp; <strong>&emsp;Linux</strong>
-&emsp;&ensp;&ensp;&ensp; <strong>&emsp;Ubuntu Server</strong>
-&nbsp;&nbsp; <strong>&emsp;Webpack</strong>
-&emsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;Babel</strong>
+&emsp;&ensp;&ensp;&nbsp; <strong>&emsp;Ubuntu Server</strong>
+&ensp;&nbsp;&nbsp; <strong>&emsp;Webpack</strong>
+&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;Babel</strong>
 &emsp;&emsp;&ensp;&nbsp;&nbsp; <strong>&emsp;&nbsp;Sequelize</strong>
 &emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;Jest</strong>
 
