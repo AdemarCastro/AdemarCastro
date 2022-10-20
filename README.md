@@ -87,7 +87,7 @@
 &ensp;&nbsp;&nbsp; <strong>&emsp;Webpack</strong>
 &emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;Babel</strong>
 &emsp;&emsp;&ensp;&nbsp;&nbsp; <strong>&emsp;&nbsp;Sequelize</strong>
-&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;Jest</strong>
+&emsp;&emsp;&emsp;&emsp;&emsp; <strong>&emsp;Jest</strong>
 
 <div align="center">
   <br>
