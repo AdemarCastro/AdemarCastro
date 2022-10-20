@@ -12,10 +12,11 @@
 - 💬 Sou apenas um mero estudante de TADS do IFAM CMC, mas ficarei feliz em contribuir com conhecimento ou em algum projeto. <br>
 - 📫 Como entrar em contato comigo: discord: Ademar Castro#3456<br>
 - ⚡ Curiosidade: Eu amo animes, séries animadas, quadrinhos e mangás.<br><br>
-<h3>Projetos pessoais em desenvolvimento atualmente...</h3>
+
+<h3>Projetos pessoais em desenvolvimento...</h3>
 😊️ Sou o responsável pelo projeto DEV CAADS, que tem o intuito de aprimorar as habilidades dos integrantes do Centro Acadêmico de Tecnologia em Análise e               Desenvolvimento de Sistemas, no qual sou o presidente, do Instituto Federal do Amazonas Manaus Centro. Dessa maneira, caso alguém que esteja lendo queira cooperar com  está iniciativa, então basta entrar em contato comigo pelo e-mail ou discord que poderei tirar suas dúvidas e ficar feliz com a sua ajuda.  <br>
 
-<h3>Tecnologias aprendidas até o momento através de estudo autodidata e faculdade</h3> <br>
+<h3>Tecnologias aprendidas até o momento através de estudo autodidata e durante a faculdade</h3> <br>
 
 <div>
   &emsp; <img src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" width="100px"/> &ensp;
