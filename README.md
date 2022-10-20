@@ -63,10 +63,10 @@
 </div>
 
 &emsp;&emsp;&ensp;&ensp; <strong>&emsp;EJS</strong>
-&emsp;&emsp;&ensp;&nbsp;&nbsp; <strong>&emsp;MongoDB</strong>
+&emsp;&emsp;&ensp;&ensp;&nbsp;&nbsp; <strong>&emsp;MongoDB</strong>
 &emsp;&emsp;&emsp; <strong>&emsp;MySQL</strong>
-&emsp;&emsp;&emsp; <strong>&emsp;MariaDB</strong>
-&emsp;&nbsp;&nbsp; <strong>&emsp;PostgreSQL</strong>
+&emsp;&emsp;&ensp; <strong>&emsp;MariaDB</strong>
+&emsp;&ensp;&nbsp;&nbsp; <strong>&emsp;PostgreSQL</strong>
 &emsp;&nbsp;&nbsp; <strong>&emsp;&nbsp;Strapi.js</strong>
 &emsp;&emsp;&emsp; <strong>&emsp;NestJS</strong>
 
@@ -82,8 +82,8 @@
 </div>
 
 &emsp;&emsp;&nbsp;&nbsp; <strong>&emsp;JWT</strong>
-&emsp;&emsp;&emsp;&nbsp;&nbsp; <strong>&emsp;Linux</strong>
-&emsp;&ensp;&ensp; <strong>&emsp;Ubuntu Server</strong>
+&emsp;&emsp;&emsp;&ensp;&ensp; <strong>&emsp;Linux</strong>
+&emsp;&ensp;&ensp;&ensp; <strong>&emsp;Ubuntu Server</strong>
 &nbsp;&nbsp; <strong>&emsp;Webpack</strong>
 &emsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;Babel</strong>
 &emsp;&emsp;&ensp;&nbsp;&nbsp; <strong>&emsp;&nbsp;Sequelize</strong>
@@ -98,7 +98,7 @@
 
 <div align="center">
   &nbsp;&nbsp;&nbsp;<strong>Redux</strong>
-  &emsp;&emsp;&emsp;&emsp;&emsp;  <strong>Next.js</strong>
+  &emsp;&emsp;&emsp;&emsp; <strong>Next.js</strong>
   &emsp;&emsp;&ensp;&ensp; <strong>&emsp;Knex.js</strong>
 </div>
 
