@@ -7,7 +7,7 @@
   <h3>Ademar Castro</h3>
 </div>
 <br><br>
-- 🔭 Hodiernamente estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal do Amazonas Manaus Centro. <br>
+- 🔭 Hodiernamente estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal do Amazonas. <br>
 - 🌱 Aprimorando minhas habilidades com Javascript e outras tecnologias complementares. <br>
 - 💬 Sou apenas um mero estudante de TADS do IFAM CMC, mas ficarei feliz em contribuir com conhecimento ou em algum projeto. <br>
 - 📫 Como entrar em contato comigo: ademar_castro@outlook.com / discord: Ademar Castro#3456<br>
@@ -25,8 +25,8 @@
   <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="100px"/> &ensp;
 </div>
 
-&emsp;&nbsp; <strong>Linguagem C</strong>
-&emsp;&nbsp; <strong>&emsp;VScode</strong>
+&emsp;&nbsp;&nbsp; <strong>Linguagem C</strong>
+&emsp;&nbsp;&nbsp; <strong>&emsp;VScode</strong>
 &emsp;&emsp;&nbsp; <strong>&emsp;Eclipse</strong>
 &emsp;&emsp;&emsp;&nbsp; <strong>&emsp;Java</strong>
 &emsp;&emsp;&ensp; <strong>&emsp;Selenium</strong>
