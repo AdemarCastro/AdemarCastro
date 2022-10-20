@@ -82,7 +82,7 @@
 </div>
 
 &emsp;&emsp;&nbsp;&nbsp; <strong>&emsp;JWT</strong>
-&emsp;&emsp;&emsp;&ensp;&ensp; <strong>&emsp;Linux</strong>
+&emsp;&emsp;&emsp;&ensp;&ensp;&ensp; <strong>&emsp;Linux</strong>
 &emsp;&ensp;&ensp;&ensp; <strong>&emsp;Ubuntu Server</strong>
 &nbsp;&nbsp; <strong>&emsp;Webpack</strong>
 &emsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;Babel</strong>
