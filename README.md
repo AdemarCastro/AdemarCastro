@@ -97,7 +97,7 @@
 </div>
 
 <div align="center">
-  &nbsp;&nbsp;&nbsp;<strong>Redux</strong>
+  &nbsp;&nbsp;&nbsp;&ensp;<strong>Redux</strong>
   &emsp;&emsp;&emsp;&emsp; <strong>Next.js</strong>
   &emsp;&emsp;&ensp;&ensp; <strong>&emsp;Knex.js</strong>
 </div>
