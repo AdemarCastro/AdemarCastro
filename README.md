@@ -66,8 +66,8 @@
 &emsp;&emsp;&ensp;&ensp;&nbsp;&nbsp; <strong>&emsp;MongoDB</strong>
 &emsp;&emsp;&emsp; <strong>&emsp;MySQL</strong>
 &emsp;&emsp;&ensp; <strong>&emsp;MariaDB</strong>
-&emsp;&ensp;&nbsp;&nbsp; <strong>&emsp;PostgreSQL</strong>
-&emsp;&nbsp;&nbsp; <strong>&emsp;&nbsp;Strapi.js</strong>
+&emsp;&ensp;&ensp;&nbsp; <strong>&emsp;PostgreSQL</strong>
+&emsp;&ensp;&ensp; <strong>&emsp;&nbsp;Strapi.js</strong>
 &emsp;&emsp;&emsp; <strong>&emsp;NestJS</strong>
 
 <div>
@@ -87,7 +87,7 @@
 &ensp;&nbsp;&nbsp; <strong>&emsp;Webpack</strong>
 &emsp;&emsp;&emsp;&ensp; <strong>&emsp;Babel</strong>
 &emsp;&emsp;&ensp;&nbsp;&nbsp; <strong>&emsp;&nbsp;Sequelize</strong>
-&emsp;&emsp;&emsp;&emsp; <strong>&emsp;Jest</strong>
+&emsp;&emsp;&emsp;&emsp;&ensp; <strong>&emsp;Jest</strong>
 
 <div align="center">
   <br>
