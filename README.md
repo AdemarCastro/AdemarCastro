@@ -46,7 +46,7 @@
 &emsp; <strong>&emsp;JavaScript</strong>
 &emsp;&emsp;&nbsp; <strong>&emsp;TypeScript</strong>
 &emsp;&emsp;&emsp; <strong>&emsp;React</strong>
-&emsp;&emsp;&emsp;&nbsp;&nbsp; <strong>&emsp;HTML5</strong>
+&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; <strong>&emsp;HTML5</strong>
 &emsp;&emsp;&emsp;&emsp; <strong>&emsp;CSS3</strong>
 &emsp;&emsp;&ensp;&ensp; <strong>&emsp;&nbsp;Node.js</strong>
 &emsp;&emsp;&emsp; <strong>&emsp;Express.js</strong>
