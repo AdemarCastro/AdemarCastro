@@ -15,23 +15,60 @@
 
 <h3>Tecnologias aprendidas até o momento através de estudo autodidata e durante a faculdade</h3> <br>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
-  <img src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" width="100px"/>
-  <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/353924/java.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="100px"/>
-</div>
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; margin: 20px 0;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/354259/react.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/373669/html.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/373535/css.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/355140/node.svg" width="100px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" width="100px"/>
-</div>
+<table style="margin: 20px 0;">
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" width="100px"/>
+      <br>C
+    </td>
+    <td style="text-align: center;">
+      <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="100px"/>
+      <br>Visual Studio Code
+    </td>
+    <td style="text-align: center;">
+      <img src="https://www.svgrepo.com/show/353924/java.svg" width="100px"/>
+      <br>Java
+    </td>
+    <td style="text-align: center;">
+      <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="100px"/>
+      <br>Eclipse
+    </td>
+    <td style="text-align: center;">
+      <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="100px"/>
+      <br>Selenium
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100px"/>
+      <br>JavaScript
+    </td>
+    <td style="text-align: center;">
+      <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="100px"/>
+      <br>TypeScript
+    </td>
+    <td style="text-align: center;">
+      <img src="https://www.svgrepo.com/show/354259/react.svg" width="100px"/>
+      <br>React
+    </td>
+    <td style="text-align: center;">
+      <img src="https://www.svgrepo.com/show/373669/html.svg" width="100px"/>
+      <br>HTML
+    </td>
+    <td style="text-align: center;">
+      <img src="https://www.svgrepo.com/show/373535/css.svg" width="100px"/>
+      <br>CSS
+    </td>
+    <td style="text-align: center;">
+      <img src="https://www.svgrepo.com/show/355140/node.svg" width="100px"/>
+      <br>Node.js
+    </td>
+    <td style="text-align: center;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" width="100px"/>
+      <br>Extinto (brincadeira!)
+    </td>
+  </tr>
+</table>
 
 ## Contatos:
 
