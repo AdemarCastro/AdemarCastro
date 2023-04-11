@@ -19,7 +19,6 @@
   <tr>
     <td style="text-align: center; border: none;">
       <img src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" width="100px"/>
-      
     </td>
     <td style="text-align: center; border: none;">
       <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="100px"/>
