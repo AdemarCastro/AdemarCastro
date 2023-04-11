@@ -148,3 +148,47 @@
   </tr>
 </tbody>
 </table>
+  
+ <div>
+  <img src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" width="100px"/>
+  <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/353924/java.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="100px"/>
+</div>
+
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/354259/react.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/373669/html.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/373535/css.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/355140/node.svg" width="100px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" width="100px"/>
+</div>
+
+<div>
+  <img src="https://www.svgrepo.com/show/373574/ejs.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/354099/mysql.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/373824/mariadb.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/373965/pgsql.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/354399/strapi-icon.svg" width="100"/>
+  <img src="https://www.svgrepo.com/show/354107/nestjs.svg" width="100"/>
+</div>
+
+<div>
+  <img src="https://img.icons8.com/color/452/java-web-token.png" width="100px"/>
+  <img src="https://www.iconsdb.com/icons/preview/white/linux-xxl.png" width="100px"/>
+  <img src="https://www.svgrepo.com/show/349544/ubuntu.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/354552/webpack.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/353468/babel.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/354333/sequelize.svg" width="100px"/>
+  <img src="https://www.svgrepo.com/show/353930/jest.svg" width="100px"/>
+</div>
+
+<div align="center">
+  <img src="https://www.svgrepo.com/show/354274/redux.svg" width="100px"/>
+  <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="100px"/>
+  <img src="https://www.svgrepo.com/show/353972/knex.svg" width="100px"/>
+</div>
