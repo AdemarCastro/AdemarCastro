@@ -15,6 +15,8 @@
 
 <h3>Tecnologias aprendidas até o momento através de estudo autodidata e durante a faculdade</h3> <br>
 
+<div> &emsp; <img src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" width="100px"/> &ensp; <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="100px"/> &ensp; <img src="https://www.svgrepo.com/show/353924/java.svg" width="100px"/> &ensp; <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="100px"/> &ensp; <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="100px"/> &ensp; </div>
+
 &emsp;&nbsp;&nbsp; <strong>Linguagem C</strong>
 &emsp;&emsp;&nbsp;&nbsp; <strong>&emsp;VScode</strong>
 &emsp;&emsp;&emsp;&ensp; <strong>&emsp;Java</strong>
