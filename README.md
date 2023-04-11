@@ -192,3 +192,18 @@
   <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="100px"/>
   <img src="https://www.svgrepo.com/show/353972/knex.svg" width="100px"/>
 </div>
+  
+<!--  CSS  -->
+<style>
+  div {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px 0;
+  }
+
+  img {
+    width: 100px;
+    margin: 0 10px;
+  }
+</style>
