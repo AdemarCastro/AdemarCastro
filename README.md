@@ -15,133 +15,6 @@
 
 <h3>Tecnologias aprendidas até o momento através de estudo autodidata e durante a faculdade</h3> <br>
 
-<table style="margin: 20px 0; border-collapse: collapse;">
-  <tr>
-    <td style="text-align: center; border: none;">
-      <img src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" width="100px"/>
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="100px"/>
-      
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://www.svgrepo.com/show/353924/java.svg" width="100px"/>
-      
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="100px"/>
-      
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="100px"/>
-      
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: center; border: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100px"/>
-      
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="100px"/>
-      
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://www.svgrepo.com/show/354259/react.svg" width="100px"/>
-      
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://www.svgrepo.com/show/373669/html.svg" width="100px"/>
-      
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://www.svgrepo.com/show/373535/css.svg" width="100px"/>
-      
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://www.svgrepo.com/show/355140/node.svg" width="100px"/>
-      
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" width="100px"/>
-      
-    </td>
-  </tr>
-</table>
-
-## Contatos:
-
-<div>
-  <a href="https://www.instagram.com/ademar.a.castro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "ademar.castro.fh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ademar-castro-b61973232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-## Minhas estatísticas:
-
-<div>
-<a href="https://github.com/AdemarCastro">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemarCastro&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdemarCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<br><br>
-<div align="center">
-  <img src="https://i.pinimg.com/originals/b2/d5/3d/b2d53d95c57463d69ebbe4f24a72ff49.gif" width="250px"/>
-  <p>É isso pessoal, até a próxima! ❤️</p> 
-</div>
-  
- <div>
-  <img src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" width="100px"/>
-  <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/353924/java.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="100px"/>
-</div>
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/354259/react.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/373669/html.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/373535/css.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/355140/node.svg" width="100px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" width="100px"/>
-</div>
-
-<div>
-  <img src="https://www.svgrepo.com/show/373574/ejs.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/373845/mongo.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/354099/mysql.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/373824/mariadb.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/373965/pgsql.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/354399/strapi-icon.svg" width="100"/>
-  <img src="https://www.svgrepo.com/show/354107/nestjs.svg" width="100"/>
-</div>
-
-<div>
-  <img src="https://img.icons8.com/color/452/java-web-token.png" width="100px"/>
-  <img src="https://www.iconsdb.com/icons/preview/white/linux-xxl.png" width="100px"/>
-  <img src="https://www.svgrepo.com/show/349544/ubuntu.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/354552/webpack.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/353468/babel.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/354333/sequelize.svg" width="100px"/>
-  <img src="https://www.svgrepo.com/show/353930/jest.svg" width="100px"/>
-</div>
-
-<div align="center">
-  <img src="https://www.svgrepo.com/show/354274/redux.svg" width="100px"/>
-  <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="100px"/>
-  <img src="https://www.svgrepo.com/show/353972/knex.svg" width="100px"/>
-</div>
-  
-<div>
-  &emsp; <img src="https://images.vexels.com/media/users/3/166179/isolated/preview/b83d6b47a9502dfaf535087627a8bf96-icone-da-linguagem-de-programacao-c.png" width="100px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="100px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/353924/java.svg" width="100px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/353685/eclipse-icon.svg" width="100px"/> &ensp;
-  <img src="https://www.svgrepo.com/show/354321/selenium.svg" width="100px"/> &ensp;
-</div>
-
 &emsp;&nbsp;&nbsp; <strong>Linguagem C</strong>
 &emsp;&emsp;&nbsp;&nbsp; <strong>&emsp;VScode</strong>
 &emsp;&emsp;&emsp;&ensp; <strong>&emsp;Java</strong>
@@ -217,4 +90,26 @@
   &nbsp;&nbsp;&nbsp;<strong>Redux</strong>
   &emsp;&emsp;&emsp;&emsp;&ensp; <strong>Next.js</strong>
   &emsp;&emsp;&ensp;&ensp;&ensp; <strong>&emsp;Knex.js</strong>
+</div>
+
+
+## Contatos:
+
+<div>
+  <a href="https://www.instagram.com/ademar.a.castro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "ademar.castro.fh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ademar-castro-b61973232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+## Minhas estatísticas:
+
+<div>
+<a href="https://github.com/AdemarCastro">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemarCastro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdemarCastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+<br><br>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/b2/d5/3d/b2d53d95c57463d69ebbe4f24a72ff49.gif" width="250px"/>
+  <p>É isso pessoal, até a próxima! ❤️</p> 
 </div>
