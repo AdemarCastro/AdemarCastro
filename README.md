@@ -120,3 +120,31 @@
   <img src="https://i.pinimg.com/originals/b2/d5/3d/b2d53d95c57463d69ebbe4f24a72ff49.gif" width="250px"/>
   <p>É isso pessoal, até a próxima! ❤️</p> 
 </div>
+  
+  
+<table>
+<thead>
+  <tr>
+    <th>Linguagem</th>
+    <th>IDE</th>
+    <th>Framework</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>C</td>
+    <td>VScode</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>Eclipse</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>VScode</td>
+    <td>React</td>
+  </tr>
+</tbody>
+</table>
