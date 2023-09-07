@@ -43,8 +43,8 @@
 - Preparação para o mercado de trabalho por meio do programa, adquirindo conhecimentos e competências relevantes para o campo profissional.
 
 ## Formação Acadêmica
-- Tecnologia em Análise e Desenvolvimento de Sistemas (fev de 2022 - cursando)
-  - Instituto Federal de Educação Ciência e Tecnologia do Amazonas - IFAM 
+- Tecnologia em Análise e Desenvolvimento de Sistemas *(fev de 2022 - cursando)* <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Instituto Federal de Educação Ciência e Tecnologia do Amazonas - IFAM 
 
 ## Contato
 - ademar.castro.curriculo@gmail.com
