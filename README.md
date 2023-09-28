@@ -22,7 +22,7 @@
 - Testes rigorosos para validar regras de negócio e funcionalidades do sistema.
 
 ## Experiência Profissional
-### Departamento de Tecnologia da Informação da Polícia Militar do Amazonas
+### Diretoria de Tecnologia da Informação da Polícia Militar do Amazonas - DTI/PMAM
 *Estagiário Desenvolvedor de Software (set de 2023 - presente)*
 - Desenvolvimento e manutenção de sistemas utilizando diversas tecnologias.
 - Realização de testes e garantia de qualidade do código.
