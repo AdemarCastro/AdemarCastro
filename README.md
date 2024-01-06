@@ -65,7 +65,7 @@ Participo ativamente do Programa Aranouá desde agosto de 2022, onde já conclu�
 <div align='center'>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ademarcastro&repo=angular-clone-spotify&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/AdemarCastro/angular-clone-spotify)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ademarcastro&repo=portfolio-ademar-castro&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/AdemarCastro/portfolio-ademar-castro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ademarcastro&repo=dio-java-developer&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/AdemarCastro/dio-java-developer/tree/main/poo/desafios/banco-digital-com-java-poo)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ademarcastro&repo=game-store-api&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/AdemarCastro/game-store-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ademarcastro&repo=senac-dev-fullstack&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/AdemarCastro/senac-dev-fullstack)
