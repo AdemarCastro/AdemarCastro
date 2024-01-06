@@ -1,51 +1,83 @@
-# Seja bem vindo! 👋
+# Hello, my friend! I am Ademar Castro 🖐️
 
-## Sobre Mim
-- Estagiário Desenvolvedor de Software no Departamento de Tecnologia da Informação da Polícia Militar do Amazonas.
-- Experiência em desenvolvimento de software com tecnologias como Java, Spring Boot, JavaScript, TypeScript, Angular, React, HTML, CSS, SASS, e mais.
-- Comprometido em manter aplicações de alta qualidade, realizar testes rigorosos e manter-se atualizado com as últimas tendências em tecnologia.
+<p align='justify'>
+Atualmente, estou no 4º semestre do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Estado do Amazonas. Ao longo dos últimos dois anos imerso no universo da tecnologia, adquiri conhecimentos valiosos. Além dos estudos acadêmicos, assumi a posição de Presidente do Centro Acadêmico CAADS, onde desenvolvo diversas atividades extracurriculares visando aprimorar a experiência dos alunos no curso de TADS no IFAM-CMC, tanto para aqueles que já estão cursando quanto para os futuros estudantes.
 
-## Projetos Destacados
-### [Angular Spotify Clone](https://github.com/AdemarCastro/angular-clone-spotify)
-- Clone da plataforma de streaming de música Spotify, utilizando HTML, CSS, TypeScript, JavaScript e Angular 2.
-- Integração com a API do Spotify para acesso a dados de navegação, playlists e músicas em tempo real.
+Participo ativamente do Programa Aranouá desde agosto de 2022, onde já concluí 6 cursos, cada um com uma carga horária de 40 horas, abrangendo temas desde Machine Learning até Testes de Software com Selenium. Em outubro de 2023, destaco a minha seleção entre os 60 participantes em um processo seletivo altamente concorrido, composto por 350 candidatos, para o curso "Programa de Desenvolvedor Full Stack" no Senac AM no Centro de Tecnologia. Estou muito satisfeito com meu progresso até o momento e otimista para alcançar conquistas ainda maiores em 2024.
+</p>
 
-### [Aprendendo a utilizar Java Reflection](https://github.com/AdemarCastro/repositorio-atividades-pbc/tree/main/trabalho-final/trabalho-final-pbc)
-- Desenvolvimento de um sistema de cadastro de clientes em Java, explorando o uso de Java Reflection para interagir com classes em tempo de execução.
+<hr>
 
-### [Banco Digital (CLI) em JAVA](https://github.com/AdemarCastro/dio-java-developer/tree/main/poo/desafios/banco-digital-com-java-poo)
-- Projeto de um banco digital em Java, enfatizando Orientação a Objetos.
-- Funcionalidades incluem criação de bancos, funcionários, clientes, operações bancárias e diagrama UML completo.
+## Tecnologias que uso para Programar / Desenvolver
 
-### [Projeto de Aprendizagem do Curso de Spring e Testes](https://github.com/AdemarCastro/spring-testes-avaliacao-final)
-- Implementação de um sistema de cadastro para ajuda humanitária da organização "Médicos Sem Fronteiras" (MSF) utilizando Java, JPA, e Spring Boot.
-- Testes rigorosos para validar regras de negócio e funcionalidades do sistema.
+<div align='center'><br>
+  
+![TypeScript](https://img.shields.io/badge/typescript-%232F74C0?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![SASS](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23FF7667?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238411F6?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%2369AD3C?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![JUnit 5](https://img.shields.io/badge/junit-%23FFFFFF?style=for-the-badge&logo=junit5&logoColor=black)&nbsp;
+![Selenium](https://img.shields.io/badge/selenium-%2300AE00?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
+![Ionic](https://img.shields.io/badge/ionic-%234586F7?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/flutter-%235AC2F0?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/dart-%2304599C?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MariaDB](https://img.shields.io/badge/mariadb-%23BA7257?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-%23366B98?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23E70488?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23EFE081?style=for-the-badge&logo=numpy&logoColor=black)&nbsp;
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23CFF758?style=for-the-badge&logo=matplotlib&logoColor=black)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F09437?style=for-the-badge&logo=scikitlearn&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/keras-%23D00000?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23ED8E24?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![Anaconda](https://img.shields.io/badge/anaconda-%233EB049?style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
 
-## Experiência Profissional
-### Diretoria de Tecnologia da Informação da Polícia Militar do Amazonas - DTI/PMAM
-*Estagiário Desenvolvedor de Software (set de 2023 - presente)*
-- Desenvolvimento e manutenção de sistemas utilizando diversas tecnologias.
-- Realização de testes e garantia de qualidade do código.
-- Atualização constante com as últimas tendências em tecnologia.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliocarlitos&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heliocarlitos&theme=transparent&show_icons=true&text_color=ffffff&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100) 
 
-### IComp - Instituto de Computação/UFAM
-*Aluno (ago de 2023 - presente)*
-- Aluno do curso intensivo Web Academy da IComp - UFAM.
-- Selecionado em uma lista de centenas de alunos.
-- Projeto desenvolvido para introduzir os alunos bolsistas a tecnologias utilizadas no mercado de trabalho.
-- Consiste no aprendizado de tecnologias Frontend (HTML, CSS, Javascript, DOM, React) e Backend (NodeJS, Typescript, Express, Autenticação, Docker, Consumo de APIs). Além disso, nos últimos 4 meses do curso é introduzido o *Red Zone*, no qual os alunos são divididos em equipes e recebem um projeto real em participação do IComp/UFAM, Motorola e Eldorado que deve ser desenvolvido no prazo determinado para conclusão do curso.
+</div>
 
-### Projeto ARANOUÁ
-*Bolsista PAPE (ago de 2022 - presente)*
-- Participação ativa no Programa de Ação e Permanência e Êxito (PAPE).
-- Engajamento na formação continuada em Desenvolvimento de Software através de cursos pelo Projeto Aranouá.
-- Entrega de relatórios e atividades relacionadas ao programa.
-- Preparação para o mercado de trabalho por meio do programa, adquirindo conhecimentos e competências relevantes para o campo profissional.
+<div align='center'>
 
-## Formação Acadêmica
-- Tecnologia em Análise e Desenvolvimento de Sistemas *(fev de 2022 - cursando)* <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;Instituto Federal de Educação Ciência e Tecnologia do Amazonas - IFAM 
+### Em processo de aprendizado
+  
 
-## Contato
-- ademar.castro.curriculo@gmail.com
-- https://www.linkedin.com/in/ademar-castro-8bb95b256/
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-%23FF3427?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/django-%230C4B33?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![PostgreeSQL](https://img.shields.io/badge/postgreesql-%232F5E8D?style=for-the-badge&logo=postgreesql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/mongodb-%2300ED64?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+</div>
+
+<hr>
+
+## Meus melhores trabalhos até agora
+
+<div align='center'>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ademarcastro&repo=angular-clone-spotify&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/AdemarCastro/angular-clone-spotify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ademarcastro&repo=portfolio-ademar-castro&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/AdemarCastro/portfolio-ademar-castro)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ademarcastro&repo=game-store-api&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/AdemarCastro/game-store-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ademarcastro&repo=senac-dev-fullstack&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/AdemarCastro/senac-dev-fullstack)
+
+</div>
+
+<hr>
+
+## Contatos
+
+<a href="mailto:ademar.castro.curriculo@gmail.com" target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
+<a href="https://wa.me/5592986115834?text=Ol%C3%A1%20*H%C3%A9lio%20Carlitos*%2C%20eu%20sou%20%5BSeu%20Nome%20Completo%5D%2C%20peguei%20seu%20contacto%20no%20seu%20README%20do%20GitHub%2C%20eu%20gostaria%20de%20" target="_blank"><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
+
+#
+> **Valeuzão pela visita, tamo juntooo! 😀**
