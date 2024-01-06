@@ -55,6 +55,10 @@ Participo ativamente do Programa Aranouá desde agosto de 2022, onde já conclu�
 ![Django](https://img.shields.io/badge/django-%230C4B33?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![PostgreeSQL](https://img.shields.io/badge/postgreesql-%232F5E8D?style=for-the-badge&logo=postgreesql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/mongodb-%2300ED64?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230997E5?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/google%20cloud-%23EA4335?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/aws-%23FF9C08?style=for-the-badge&logo=aws&logoColor=white)&nbsp;
 
 </div>
 
