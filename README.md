@@ -8,28 +8,37 @@ Participo ativamente do Programa Aranouá desde agosto de 2022, onde já conclu�
 
 <hr>
 
-## Tecnologias que uso para Programar / Desenvolver
 
 <div align='center'><br>
   
+## Tecnologias em que estou no nível avançado para Programar / Desenvolver
+
 ![TypeScript](https://img.shields.io/badge/typescript-%232F74C0?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![SASS](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23FF7667?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238411F6?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%2369AD3C?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 ![JUnit 5](https://img.shields.io/badge/junit-%23FFFFFF?style=for-the-badge&logo=junit5&logoColor=black)&nbsp;
-![Selenium](https://img.shields.io/badge/selenium-%2300AE00?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MariaDB](https://img.shields.io/badge/mariadb-%23BA7257?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
+
+</div>
+
+
+<div align='center'><br>
+  
+## Tecnologias em que estou no nível básico ou intermediário para Programar / Desenvolver
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238411F6?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Ionic](https://img.shields.io/badge/ionic-%234586F7?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/flutter-%235AC2F0?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/dart-%2304599C?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MariaDB](https://img.shields.io/badge/mariadb-%23BA7257?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-%23366B98?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23E70488?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23EFE081?style=for-the-badge&logo=numpy&logoColor=black)&nbsp;
@@ -46,10 +55,9 @@ Participo ativamente do Programa Aranouá desde agosto de 2022, onde já conclu�
 
 <div align='center'>
 
-### Em processo de aprendizado
-  
+### Tecnologias em aprendizado
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+  
 ![Laravel](https://img.shields.io/badge/laravel-%23FF3427?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/django-%230C4B33?style=for-the-badge&logo=django&logoColor=white)&nbsp;
@@ -57,8 +65,8 @@ Participo ativamente do Programa Aranouá desde agosto de 2022, onde já conclu�
 ![MongoDB](https://img.shields.io/badge/mongodb-%2300ED64?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230997E5?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/google%20cloud-%23EA4335?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/aws-%23FF9C08?style=for-the-badge&logo=aws&logoColor=white)&nbsp;
+![Selenium](https://img.shields.io/badge/selenium-%2300AE00?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
 
 </div>
 
