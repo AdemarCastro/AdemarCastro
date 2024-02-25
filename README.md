@@ -6,7 +6,12 @@ Atualmente, estou no 4º semestre do curso de Tecnologia em Análise e Desenvolv
 Participo ativamente do Programa Aranouá desde agosto de 2022, onde já concluí 6 cursos, cada um com uma carga horária de 40 horas, abrangendo temas desde Machine Learning até Testes de Software com Selenium. Em outubro de 2023, destaco a minha seleção entre os 60 participantes em um processo seletivo altamente concorrido, composto por 350 candidatos, para o curso "Programa de Desenvolvedor Full Stack" no Senac AM no Centro de Tecnologia. Estou muito satisfeito com meu progresso até o momento e otimista para alcançar conquistas ainda maiores em 2024.
 </p>
 
-<hr>
+<div align='center'><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliocarlitos&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heliocarlitos&theme=transparent&show_icons=true&text_color=ffffff&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100) 
+
+</div>
 
 ## Meus melhores trabalhos até agora
 
