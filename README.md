@@ -1,4 +1,4 @@
-# Hello, my friend! I am Ademar Castro 🖐️
+# Olá, tudo bom? Meu nome é Ademar Castro 🖐️
 
 <p align='justify'>
 Atualmente, estou no 4º semestre do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia do Estado do Amazonas. Ao longo dos últimos dois anos imerso no universo da tecnologia, adquiri conhecimentos valiosos. Além dos estudos acadêmicos, assumi a posição de Presidente do Centro Acadêmico CAADS, onde desenvolvo diversas atividades extracurriculares visando aprimorar a experiência dos alunos no curso de TADS no IFAM-CMC, tanto para aqueles que já estão cursando quanto para os futuros estudantes.
